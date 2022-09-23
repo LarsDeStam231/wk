@@ -83,7 +83,7 @@ console.log(match)
 //hier word het doelsaldo gechecked door de goals van het eerste team te aftrekken van de goals van het tweede team, en vice versa voor de andere kant
 
 
-
+//dit is een test
 
 
       console.log(teamone, teamtwo, match);
